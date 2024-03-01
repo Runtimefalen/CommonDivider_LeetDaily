@@ -1,0 +1,15 @@
+/Users/alba/Projects/SandBox/CommonDivider_LeetDaily/CommonDivider_LeetDaily/bin/Debug/net6.0/CommonDivider_LeetDaily
+/Users/alba/Projects/SandBox/CommonDivider_LeetDaily/CommonDivider_LeetDaily/bin/Debug/net6.0/CommonDivider_LeetDaily.deps.json
+/Users/alba/Projects/SandBox/CommonDivider_LeetDaily/CommonDivider_LeetDaily/bin/Debug/net6.0/CommonDivider_LeetDaily.runtimeconfig.json
+/Users/alba/Projects/SandBox/CommonDivider_LeetDaily/CommonDivider_LeetDaily/bin/Debug/net6.0/CommonDivider_LeetDaily.dll
+/Users/alba/Projects/SandBox/CommonDivider_LeetDaily/CommonDivider_LeetDaily/bin/Debug/net6.0/CommonDivider_LeetDaily.pdb
+/Users/alba/Projects/SandBox/CommonDivider_LeetDaily/CommonDivider_LeetDaily/obj/Debug/net6.0/CommonDivider_LeetDaily.csproj.AssemblyReference.cache
+/Users/alba/Projects/SandBox/CommonDivider_LeetDaily/CommonDivider_LeetDaily/obj/Debug/net6.0/CommonDivider_LeetDaily.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alba/Projects/SandBox/CommonDivider_LeetDaily/CommonDivider_LeetDaily/obj/Debug/net6.0/CommonDivider_LeetDaily.AssemblyInfoInputs.cache
+/Users/alba/Projects/SandBox/CommonDivider_LeetDaily/CommonDivider_LeetDaily/obj/Debug/net6.0/CommonDivider_LeetDaily.AssemblyInfo.cs
+/Users/alba/Projects/SandBox/CommonDivider_LeetDaily/CommonDivider_LeetDaily/obj/Debug/net6.0/CommonDivider_LeetDaily.csproj.CoreCompileInputs.cache
+/Users/alba/Projects/SandBox/CommonDivider_LeetDaily/CommonDivider_LeetDaily/obj/Debug/net6.0/CommonDivider_LeetDaily.dll
+/Users/alba/Projects/SandBox/CommonDivider_LeetDaily/CommonDivider_LeetDaily/obj/Debug/net6.0/refint/CommonDivider_LeetDaily.dll
+/Users/alba/Projects/SandBox/CommonDivider_LeetDaily/CommonDivider_LeetDaily/obj/Debug/net6.0/CommonDivider_LeetDaily.pdb
+/Users/alba/Projects/SandBox/CommonDivider_LeetDaily/CommonDivider_LeetDaily/obj/Debug/net6.0/CommonDivider_LeetDaily.genruntimeconfig.cache
+/Users/alba/Projects/SandBox/CommonDivider_LeetDaily/CommonDivider_LeetDaily/obj/Debug/net6.0/ref/CommonDivider_LeetDaily.dll
